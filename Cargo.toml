@@ -1,6 +1,6 @@
 [package]
 name = "tsar-client"
-version = "0.1.0"
+version = "0.0.11"
 description = "Depricated. Please use `tsar-sdk` crate instead."
 repository = "https://github.com/tsar-sec/rust-sdk-old"
 keywords = []
